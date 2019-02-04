@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{79A912D3-66B9-DDF3-6203-61A74A7F619F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Movement.cs">
+    <Files>
+      <File FileName="Assets/HelloWordScript.cs" Line="16" Column="9" />
+      <File FileName="Assets/HelloButton.cs" Line="9" Column="35" />
+      <File FileName="Assets/CreateMyObject.cs" Line="20" Column="79" />
+      <File FileName="Assets/FallSpeed.cs" Line="4" Column="23" />
+      <File FileName="Assets/KeyIsPressed.cs" Line="14" Column="35" />
+      <File FileName="Assets/Movement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
